@@ -1,7 +1,7 @@
 
 # micrograd-php
 
-A basic implementation of the Value class in the Autograd engine of karpathy/micrograd, but in PHP. (Yes, really.)
+A basic implementation of the Value class in the Autograd engine of https://github.com/karpathy/micrograd but in PHP. (Yes, really.)
 
 ### Example usage
 
